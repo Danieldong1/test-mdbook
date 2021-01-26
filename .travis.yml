@@ -11,4 +11,4 @@ deploy:
   local-dir: docs/book.toml
   keep-history: false
   on:
-    branch: master
+    branch: main
